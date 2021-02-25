@@ -1,0 +1,1 @@
+Redis is a nice library if you want to save your data in cache so that when you use that cache data in future calls to your application. This increases performance level of the application as less external calls are made and we are fetching data from the cache. 
